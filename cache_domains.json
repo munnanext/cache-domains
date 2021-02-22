@@ -132,5 +132,10 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		}
+		{
+			"name": "munna",
+			"description": "Custome CDN",
+			"domain_files": ["munna.txt"]
+		}
 	]
 }
